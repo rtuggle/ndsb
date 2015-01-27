@@ -4,16 +4,22 @@ Repo for yet-to-be-named BAH National Data Science Bowl team
 Team:
 
 -- Yong Kwon
+
 -- Paul Yacci
+
 -- Brian Behe
+
 -- Andrew Royal
+
 -- Alex O'Toole
+
 -- Thomas Brady
+
 -- Steve Flinchbaugh
 
 
-Weekly update meetings:
--- Tuesdays @ 3:30 pm
+
+Weekly update meetings:  Tuesdays @ 3:30 pm
 
 
 Booz Allen is co-sponsoring the first-ever National Data Science Bowl, a nationwide competition that uses data science to take on a global challenge. The competition addresses a question that has stumped marine biologists for decades. Check out the video describing the challenge on YouTube. Could the answer lie in data?
